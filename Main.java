@@ -43,6 +43,9 @@ public class Main {
     }
 }
 
+/**
+ * Represente un etudiant avec son nom, son age et sa moyenne.
+ */
 class Etudiant {
     private String nom;
     private int age;
